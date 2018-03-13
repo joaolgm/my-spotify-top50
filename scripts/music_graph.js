@@ -31,9 +31,9 @@ const legend = d3.legendColor()
 d3.json('toptop.json', function (error, graph) {
     if (error) throw error;
 
-    // result = {};
+     result = {};
     // result.nodes = [];
-    // result.edges = [];
+     result.edges = [];
     //
     // for (var i = 0; i < graph.items.length; i++) {
     //   var artists = {};
@@ -46,6 +46,28 @@ d3.json('toptop.json', function (error, graph) {
     //
     //   result.nodes.push(artists);
     // }
+
+    for (var i = 0; i < graph.items.length; i++) {
+      var edges = {};
+      for (var j = 1; j < graph.items.length; j++) {
+        if(isEdge(graph.items.genres[i], graph.items.genres[])) {
+
+        }
+      }
+    }
+
+
+    function isEdge(genres1, genres2) {
+      for (var i = 0; i < genres1.length; i++) {
+        for (var j = 0; j < genres2.length; j++) {
+          if(genres1[i] === genres2[j]) {
+            return genres1[i];
+          }
+        }
+
+    }
+
+
 
 
     const types = d3.set(graph.edges.map(e => e.type)).values();
