@@ -1,0 +1,131 @@
+{
+  "nodes": [
+    {
+      "id": "559vxOLTzlAv0zB77JMcdG",
+      "name": "Alceu Valença",
+      "genres": [
+        "bossa nova",
+        "forro",
+        "mpb",
+        "samba"
+      ],
+      "img": "https://i.scdn.co/image/af01f33c525fc74cc996ffe1c1e29afa9f2edce5",
+      "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+    },
+    {
+      "id": "6XyY86QOPPrYVGvF9ch6wz",
+      "name": "Linkin Park",
+      "genres": [
+        "alternative metal",
+        "nu metal",
+        "post-grunge",
+        "rap metal"
+      ],
+      "img": "https://i.scdn.co/image/1685533969d5b68cbc630f991e873bd6467f1814",
+      "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+    },
+    {
+      "id": "7fAKtXSdNInWAIf0jVUz65",
+      "name": "Roberto Carlos",
+      "genres": [
+        "mpb"
+      ],
+      "img": "https://i.scdn.co/image/45e8967f18679d0a5791c7f647d9f7ab1bc20f3c",
+      "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+    },
+    {
+      "id": "0hWRVPGWjaXcEvg8l65Tx0",
+      "name": "Luiz Lins",
+      "genres": [],
+      "img": "https://i.scdn.co/image/6e3da1d41649e7bed3ac30d719971d1a367ad686",
+      "url": "https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0"
+    },
+    {
+      "id": "1nv813b9IAJBc2354wQodV",
+      "name": "Oswaldo Montenegro",
+      "genres": [
+        "bossa nova",
+        "brega",
+        "forro",
+        "mpb",
+        "samba"
+      ],
+      "img": "https://i.scdn.co/image/b1e9f819e85bca02b5f67d620b3a3dbd5a9ee59b",
+      "url": "https://open.spotify.com/artist/1nv813b9IAJBc2354wQodV"
+    },
+    {
+      "id": "2p4FqHnazRucYQHyDCdBrJ",
+      "name": "Simple Plan",
+      "genres": [
+        "emo",
+        "heavy christmas",
+        "modern rock",
+        "pop punk",
+        "pop rock",
+        "post-grunge",
+        "punk christmas"
+      ],
+      "img": "https://i.scdn.co/image/84c84602003b46363ce66486f6f841c2aff22315",
+      "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+    },
+    {
+      "id": "5j3htXVskZF0u8qWY5zcF8",
+      "name": "Fagner",
+      "genres": [
+        "bossa nova",
+        "brega",
+        "forro",
+        "mpb",
+        "pagode",
+        "samba"
+      ],
+      "img": "https://i.scdn.co/image/6abe29b7f28b8fbccdc4b34237d454921096766c",
+      "url": "https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8"
+    },
+    {
+      "id": "5xUf6j4upBrXZPg6AI4MRK",
+      "name": "Soundgarden",
+      "genres": [
+        "album rock",
+        "alternative metal",
+        "alternative rock",
+        "classic rock",
+        "grunge",
+        "hard rock",
+        "modern rock",
+        "nu metal",
+        "pop rock",
+        "post-grunge",
+        "rock"
+      ],
+      "img": "https://i.scdn.co/image/b30a969cfd4116ddbfc97f7bb964d39cdd831790",
+      "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+    },
+    {
+      "id": "65TbyndeGrDlFd4IkZNfbN",
+      "name": "Geraldo Azevedo",
+      "genres": [
+        "bossa nova",
+        "forro",
+        "mpb",
+        "pagode",
+        "samba"
+      ],
+      "img": "https://i.scdn.co/image/cdd3de7f8d02322040855c15fbe0660a37686834",
+      "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
+    },
+    {
+      "id": "6tOsSffQQIXmK8TqsDck8t",
+      "name": "Chico Buarque",
+      "genres": [
+        "bossa nova",
+        "forro",
+        "mpb",
+        "samba"
+      ],
+      "img": "https://i.scdn.co/image/c1a6ae9e79561abeb0bd97507cf7a26696469df0",
+      "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+    }
+  ],
+  "edges": []
+}

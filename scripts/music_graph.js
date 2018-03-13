@@ -28,8 +28,25 @@ const legend = d3.legendColor()
     .classPrefix('legend');
 
 
-d3.json('top50.json', function (error, graph) {
+d3.json('toptop.json', function (error, graph) {
     if (error) throw error;
+
+    // result = {};
+    // result.nodes = [];
+    // result.edges = [];
+    //
+    // for (var i = 0; i < graph.items.length; i++) {
+    //   var artists = {};
+    //
+    //   artists.id = graph.items[i].id;
+    //   artists.name = graph.items[i].name;
+    //   artists.genres = graph.items[i].genres;
+    //   artists.img = graph.items[i].images[0].url;
+    //   artists.url = "https://open.spotify.com/artist/" + graph.items[i].id;
+    //
+    //   result.nodes.push(artists);
+    // }
+
 
     const types = d3.set(graph.edges.map(e => e.type)).values();
     color.domain(types);

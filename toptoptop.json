@@ -1,0 +1,301 @@
+{
+  "items" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 178604
+    },
+    "genres" : [ "bossa nova", "forro", "mpb", "samba" ],
+    "href" : "https://api.spotify.com/v1/artists/559vxOLTzlAv0zB77JMcdG",
+    "id" : "559vxOLTzlAv0zB77JMcdG",
+    "images" : [ {
+      "height" : 290,
+      "url" : "https://i.scdn.co/image/af01f33c525fc74cc996ffe1c1e29afa9f2edce5",
+      "width" : 1000
+    }, {
+      "height" : 186,
+      "url" : "https://i.scdn.co/image/7da2c40c1fb48e59a9eeb2cdb2f4629eedb16607",
+      "width" : 640
+    }, {
+      "height" : 58,
+      "url" : "https://i.scdn.co/image/3e90b939dd6878176d366276c3fd84d0af43a392",
+      "width" : 200
+    }, {
+      "height" : 19,
+      "url" : "https://i.scdn.co/image/07d66c37b12ca62e998562feb5e69b7ee769f0e4",
+      "width" : 64
+    } ],
+    "name" : "Alceu Valença",
+    "popularity" : 61,
+    "type" : "artist",
+    "uri" : "spotify:artist:559vxOLTzlAv0zB77JMcdG"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 7473996
+    },
+    "genres" : [ "alternative metal", "nu metal", "post-grunge", "rap metal" ],
+    "href" : "https://api.spotify.com/v1/artists/6XyY86QOPPrYVGvF9ch6wz",
+    "id" : "6XyY86QOPPrYVGvF9ch6wz",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1685533969d5b68cbc630f991e873bd6467f1814",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/f759994946aa42851e5293083f472c96c1753105",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/0b0925b544b46d90a549f25a7f754ce6e59e6be2",
+      "width" : 160
+    } ],
+    "name" : "Linkin Park",
+    "popularity" : 87,
+    "type" : "artist",
+    "uri" : "spotify:artist:6XyY86QOPPrYVGvF9ch6wz"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 384308
+    },
+    "genres" : [ "mpb" ],
+    "href" : "https://api.spotify.com/v1/artists/7fAKtXSdNInWAIf0jVUz65",
+    "id" : "7fAKtXSdNInWAIf0jVUz65",
+    "images" : [ {
+      "height" : 1000,
+      "url" : "https://i.scdn.co/image/45e8967f18679d0a5791c7f647d9f7ab1bc20f3c",
+      "width" : 1000
+    }, {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/818f9ce3057354c119192da2b670781c30f87a7d",
+      "width" : 640
+    }, {
+      "height" : 200,
+      "url" : "https://i.scdn.co/image/79bc5daf11e2d292b3c37a53e2250609409b7d9b",
+      "width" : 200
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/bdb5d31b81c91cd85a952eecef307b92e06eba44",
+      "width" : 64
+    } ],
+    "name" : "Roberto Carlos",
+    "popularity" : 66,
+    "type" : "artist",
+    "uri" : "spotify:artist:7fAKtXSdNInWAIf0jVUz65"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 55178
+    },
+    "genres" : [ ],
+    "href" : "https://api.spotify.com/v1/artists/0hWRVPGWjaXcEvg8l65Tx0",
+    "id" : "0hWRVPGWjaXcEvg8l65Tx0",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6e3da1d41649e7bed3ac30d719971d1a367ad686",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/5a7f443ca4578c27a3980d381c7296c4b7a50d61",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/724dc5850772d196ed3f13f89da051bcda267000",
+      "width" : 160
+    } ],
+    "name" : "Luiz Lins",
+    "popularity" : 61,
+    "type" : "artist",
+    "uri" : "spotify:artist:0hWRVPGWjaXcEvg8l65Tx0"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1nv813b9IAJBc2354wQodV"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 130210
+    },
+    "genres" : [ "bossa nova", "brega", "forro", "mpb", "samba" ],
+    "href" : "https://api.spotify.com/v1/artists/1nv813b9IAJBc2354wQodV",
+    "id" : "1nv813b9IAJBc2354wQodV",
+    "images" : [ {
+      "height" : 1500,
+      "url" : "https://i.scdn.co/image/b1e9f819e85bca02b5f67d620b3a3dbd5a9ee59b",
+      "width" : 1000
+    }, {
+      "height" : 960,
+      "url" : "https://i.scdn.co/image/b6bfe85f2daa8d1a0a1b08280a63b383e4077f0b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/48aeed75e235f3f5ff912055d3553170a972e3e9",
+      "width" : 200
+    }, {
+      "height" : 96,
+      "url" : "https://i.scdn.co/image/854f550d70505de0dcf3efee6d9e01472db33880",
+      "width" : 64
+    } ],
+    "name" : "Oswaldo Montenegro",
+    "popularity" : 51,
+    "type" : "artist",
+    "uri" : "spotify:artist:1nv813b9IAJBc2354wQodV"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 1357078
+    },
+    "genres" : [ "emo", "heavy christmas", "modern rock", "pop punk", "pop rock", "post-grunge", "punk christmas" ],
+    "href" : "https://api.spotify.com/v1/artists/2p4FqHnazRucYQHyDCdBrJ",
+    "id" : "2p4FqHnazRucYQHyDCdBrJ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/84c84602003b46363ce66486f6f841c2aff22315",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/493e6725a9dea475a055afb7024e6994155bb43c",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/910ec00a4866abe43b807e905cdd91b96305ef8c",
+      "width" : 160
+    } ],
+    "name" : "Simple Plan",
+    "popularity" : 71,
+    "type" : "artist",
+    "uri" : "spotify:artist:2p4FqHnazRucYQHyDCdBrJ"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 181318
+    },
+    "genres" : [ "bossa nova", "brega", "forro", "mpb", "pagode", "samba" ],
+    "href" : "https://api.spotify.com/v1/artists/5j3htXVskZF0u8qWY5zcF8",
+    "id" : "5j3htXVskZF0u8qWY5zcF8",
+    "images" : [ {
+      "height" : 576,
+      "url" : "https://i.scdn.co/image/6abe29b7f28b8fbccdc4b34237d454921096766c",
+      "width" : 640
+    }, {
+      "height" : 270,
+      "url" : "https://i.scdn.co/image/51ff73f28232a15f9b4c2f66f80689683bcac80d",
+      "width" : 300
+    }, {
+      "height" : 58,
+      "url" : "https://i.scdn.co/image/a6ffbce96f8db443087d88237f6444b7c1fad4b5",
+      "width" : 64
+    } ],
+    "name" : "Fagner",
+    "popularity" : 56,
+    "type" : "artist",
+    "uri" : "spotify:artist:5j3htXVskZF0u8qWY5zcF8"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 1107262
+    },
+    "genres" : [ "album rock", "alternative metal", "alternative rock", "classic rock", "grunge", "hard rock", "modern rock", "nu metal", "pop rock", "post-grunge", "rock" ],
+    "href" : "https://api.spotify.com/v1/artists/5xUf6j4upBrXZPg6AI4MRK",
+    "id" : "5xUf6j4upBrXZPg6AI4MRK",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b30a969cfd4116ddbfc97f7bb964d39cdd831790",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/8810bdd2da72b6609d348b80b2aa211e8b440cdd",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/68ca2ffe0b1f7e1e0cef26c9837a4a8afe826044",
+      "width" : 160
+    } ],
+    "name" : "Soundgarden",
+    "popularity" : 71,
+    "type" : "artist",
+    "uri" : "spotify:artist:5xUf6j4upBrXZPg6AI4MRK"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 100348
+    },
+    "genres" : [ "bossa nova", "forro", "mpb", "pagode", "samba" ],
+    "href" : "https://api.spotify.com/v1/artists/65TbyndeGrDlFd4IkZNfbN",
+    "id" : "65TbyndeGrDlFd4IkZNfbN",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/cdd3de7f8d02322040855c15fbe0660a37686834",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/2d764882f88132a2cc0e9f15202b82feb6add440",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/65b053155adec292ce2706abc355e1f245586252",
+      "width" : 160
+    } ],
+    "name" : "Geraldo Azevedo",
+    "popularity" : 59,
+    "type" : "artist",
+    "uri" : "spotify:artist:65TbyndeGrDlFd4IkZNfbN"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 364569
+    },
+    "genres" : [ "bossa nova", "forro", "mpb", "samba" ],
+    "href" : "https://api.spotify.com/v1/artists/6tOsSffQQIXmK8TqsDck8t",
+    "id" : "6tOsSffQQIXmK8TqsDck8t",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c1a6ae9e79561abeb0bd97507cf7a26696469df0",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/8c1fc2f37d625cbca6fdb500dae84c3f9afdf47a",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/5c27d1ebbde9ca6814f62b995b2ff668c32c20fc",
+      "width" : 160
+    } ],
+    "name" : "Chico Buarque",
+    "popularity" : 64,
+    "type" : "artist",
+    "uri" : "spotify:artist:6tOsSffQQIXmK8TqsDck8t"
+  } ],
+  "total" : 27,
+  "limit" : 10,
+  "offset" : 5,
+  "href" : "https://api.spotify.com/v1/me/top/artists?limit=10&offset=5&time_range=short_term",
+  "previous" : null,
+  "next" : "https://api.spotify.com/v1/me/top/artists?limit=10&offset=15&time_range=short_term"
+}
