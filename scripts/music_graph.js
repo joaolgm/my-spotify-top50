@@ -1,3 +1,5 @@
+'use strict'
+
 const svg = d3.select('svg'),
     width = +svg.attr('width'),
     height = +svg.attr('height');
@@ -14,7 +16,7 @@ const simulation = d3.forceSimulation()
     .force('link', d3.forceLink().id(d => d.id))
     .force('collide', d3.forceCollide(30))
     .force('center', d3.forceCenter((width / 2), height / 2))
-    .force('genreX', d3.forceX(genreX).strength(0.02))
+    .force('genreX', d3.forceX(genreX).strength(0.05))
     .force('genreY', d3.forceY(genreY));
 
 svg.append('g')
@@ -23,52 +25,57 @@ svg.append('g')
 
 const legend = d3.legendColor()
     .shape('circle')
-    .shapeRadius('5')
+    .shapeRadius('7')
     .orient('vertical')
     .classPrefix('legend');
 
 
-d3.json('toptop.json', function (error, graph) {
+d3.json('top.json', function (error, graph) {
     if (error) throw error;
 
-     result = {};
-    // result.nodes = [];
-     result.edges = [];
-    //
-    // for (var i = 0; i < graph.items.length; i++) {
-    //   var artists = {};
-    //
-    //   artists.id = graph.items[i].id;
-    //   artists.name = graph.items[i].name;
-    //   artists.genres = graph.items[i].genres;
-    //   artists.img = graph.items[i].images[0].url;
-    //   artists.url = "https://open.spotify.com/artist/" + graph.items[i].id;
-    //
-    //   result.nodes.push(artists);
-    // }
-
-    for (var i = 0; i < graph.items.length; i++) {
-      var edges = {};
-      for (var j = 1; j < graph.items.length; j++) {
-        if(isEdge(graph.items.genres[i], graph.items.genres[])) {
-
-        }
-      }
-    }
-
-
-    function isEdge(genres1, genres2) {
-      for (var i = 0; i < genres1.length; i++) {
-        for (var j = 0; j < genres2.length; j++) {
-          if(genres1[i] === genres2[j]) {
-            return genres1[i];
-          }
-        }
-
-    }
-
-
-
+//   function adaptJson() {
+//      var result = {};
+//      result.nodes = [];
+//      result.edges = [];
+//
+//     for (var i = 0; i < graph.items.length; i++) {
+//       var artists = {};
+//
+//       artists.id = graph.items[i].id;
+//       artists.name = graph.items[i].name;
+//       artists.genres = graph.items[i].genres;
+//       artists.img = graph.items[i].images[0].url;
+//       artists.url = "https://open.spotify.com/artist/" + graph.items[i].id;
+//
+//       result.nodes.push(artists);
+//     }
+//
+//     for (var i = 0; i < graph.items.length; i++) {
+//       var links = {};
+//       for (var j = 0; j < graph.items.length; j++) {
+//         var suchEdges = isEdge(graph.items[i].genres, graph.items[j].genres);
+//         if(suchEdges != null) {
+//           links.source = graph.items[i].id;
+//           links.target = graph.items[j].id;
+//           links.type = suchEdges;
+//
+//           result.edges.push(links);
+//         }
+//       }
+//     }
+//         console.log(result);
+// }
+//     function isEdge(genresA, genresB) {
+//       for (var i = 0; i < genresA.length; i++) {
+//         for (var j = 0; j < genresB.length; j++) {
+//           if(genresA[i] === genresB[j]) {
+//             return genresA[i];
+//           }
+//         }
+//     }
+// }
+//
+//     adaptJson();
 
     const types = d3.set(graph.edges.map(e => e.type)).values();
     color.domain(types);
